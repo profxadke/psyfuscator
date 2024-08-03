@@ -1,0 +1,1 @@
+maintain 8 bit thingy by making sure bin are 07digitbin 006digitbin etc..
